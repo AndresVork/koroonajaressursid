@@ -1,0 +1,1 @@
+Koroona raviks vajalike ressursside piisavuse simuleerimine
